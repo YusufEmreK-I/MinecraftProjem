@@ -65,6 +65,4 @@ Bu proje, Unity motoruyla geliştirilen, Minecraft'a benzer temel özelliklere s
 * Envanter sistemi.
 * Farklı blok ve eşyalar.
 
-## 📄 Lisans
 
-(İstersen buraya bir lisans bilgisi ekleyebilirsin, örneğin MIT.)
